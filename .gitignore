@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# other PY
+manual_gen_access_token.py
+Fetch_5min_bars_09-15_15-29-59.py
+Fetch_5min_bars_ONLY_POSITIVE_STOCKS.py
+uv.lock
