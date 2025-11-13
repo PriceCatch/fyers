@@ -3,7 +3,7 @@
 As part of my Technical Analysis education and code sharing series, I am sharing code written by me here for use by anyone interested. You will find example of how to fetch access token from FYERS and fetch 5 minutes bars of a specific day or days.
 
 #### FYERS api Docs:
-YOu can find the api docs here: [FYERS API DOCS](https://myapi.fyers.in/docsv3).
+You can find the api docs here: [FYERS API DOCS](https://myapi.fyers.in/docsv3).
 
 #### License:
 
