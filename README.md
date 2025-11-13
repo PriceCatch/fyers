@@ -7,9 +7,7 @@ You can find the api docs here: [FYERS API DOCS](https://myapi.fyers.in/docsv3).
 
 #### License:
 
-This project uses a mixed licensing approach.
-
-* Files are licensed under the Mozilla Public License 2.0 - see the [LICENSE.txt](LICENSE.txt) file for details.
+Files are licensed under the Mozilla Public License 2.0 - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 [https://mozilla.org/MPL/2.0/](https://mozilla.org/MPL/2.0/)
 
